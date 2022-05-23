@@ -7,4 +7,4 @@ In command prompt:
 
 Then in Jupyter Lab:
 
-5. Run cells from ```installation_test.ipynb``` to validate the installaton.
+5. Run cells from [installation_test.ipynb](installation_test.ipynb) to validate the installaton.
